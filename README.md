@@ -1,1 +1,1 @@
-# testing
+# Salary prediction using linear regression
